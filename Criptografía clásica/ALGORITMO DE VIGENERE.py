@@ -1,3 +1,5 @@
+#Escuela Superior Politécnica de Chimborazo
+#By: Samuel Parrales
 #65:A - 90:Z
 import re
 import random
